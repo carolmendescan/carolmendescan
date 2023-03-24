@@ -12,7 +12,10 @@ Living in Vancouver-Canada 🇨🇦
   <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="200px" />
 </div>
 
-
+![image](https://user-images.githubusercontent.com/113412699/227609826-1c156518-2513-49c7-a98b-6ca041005d94.png)
+![image](https://user-images.githubusercontent.com/113412699/227609763-d63ce04e-4721-450b-885c-743e4ef19b88.png)
+![image](https://user-images.githubusercontent.com/113412699/227609627-d95d359a-4f82-4a78-adb7-373696771a01.png)
+![image](https://user-images.githubusercontent.com/113412699/227609536-363797eb-da14-4747-b09a-a10651987b60.png)
 ![image](https://user-images.githubusercontent.com/113412699/227603261-76f38039-c5bb-40e2-b40f-158a86084613.png)
 ![image](https://user-images.githubusercontent.com/113412699/227603324-65324cb9-817c-49d9-8691-8f482bcc7cd7.png)
 ![image](https://user-images.githubusercontent.com/113412699/227603414-808d5d93-1abe-4460-a36c-9e9c66e73786.png)
