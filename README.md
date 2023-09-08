@@ -2,7 +2,7 @@
 
 I'm Ana Carolina - studding at TRYBE - FULL STACK web developer is my goal!  
 
-*[Trybe Repository]([https://github.com/Gui-Alucard/Trybe](https://github.com/carolmendescan/trybe))*
+*[Trybe Repository](https://github.com/carolmendescan/trybe)*
 
 Living in Vancouver-Canada 🇨🇦
 
