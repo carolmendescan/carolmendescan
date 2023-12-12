@@ -1,6 +1,12 @@
 ## Hi there, welcome to my Github Profile 👋
 
-I'm Ana Carolina - A Full Stack Web Developer!  
+<h1 align="center">
+ 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Ana+Carolina+Mendes!;+A+Full+Stack+Web+Developer!&center=true&size=15">
+  </a>
+  
+</h1>
 
 *[Trybe Repository](https://github.com/carolmendescan/trybe)* - Here you can see my projects developed during my web development course
 
