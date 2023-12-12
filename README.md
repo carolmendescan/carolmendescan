@@ -1,14 +1,16 @@
 ## Hi there, welcome to my Github Profile 👋
 
-I'm Ana Carolina - studding at TRYBE - FULL STACK web developer is my goal!  
+I'm Ana Carolina - A Full Stack Web Developer!  
 
-*[Trybe Repository](https://github.com/carolmendescan/trybe)*
+*[Trybe Repository](https://github.com/carolmendescan/trybe)* - Here you can see my projects developed during my web development course
 
 Living in Vancouver-Canada 🇨🇦
 
 <div> 
-  
+  ## ➤ Reach me
   <a href="https://www.linkedin.com/in/carolmendes-can/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  anacpersonal@gamil.com
  
 </div>
 
