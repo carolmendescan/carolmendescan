@@ -6,11 +6,13 @@ I'm Ana Carolina - A Full Stack Web Developer!
 
 Living in Vancouver-Canada 🇨🇦
 
-<div> 
-  ## ➤ Reach me
+ ## ➤ Reach me
+ 
+<div align="center"> 
+ 
   <a href="https://www.linkedin.com/in/carolmendes-can/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  anacpersonal@gamil.com
+  anacpersonal@gmail.com
  
 </div>
 
